@@ -1,0 +1,19 @@
+{
+  "updates": [
+    {
+      "date": "2023-07-04",
+      "datetime": "1687844598",
+      "filename": "aospa-topaz-unofficial-sunny-20230704.zip",
+      "url": "https://github.com/cyberknight777/pa-ota/releases/download/unofficial-1/aospa-topaz-unofficial-sunny-20220704.zip",
+      "id": "9e464cd2e58276af43c6ada22c51fa35db30c9824e2a8079db878aca7cc9d354",
+      "size": "2151712243",
+      "build_type": "Unofficial",
+      "version_code": "2",
+      "version": "Topaz",
+      "android_version": "13",
+      "android_spl": "2023-06-05",
+      "changelog_device": "https://t.me/aospa_gotenks_updates/76"
+     }
+   ]
+}
+
